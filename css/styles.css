@@ -39,3 +39,22 @@ body, html {
   margin-top: 10px;
   margin-left: 410px;
 }
+
+.button-group {
+  margin-top: 1.5rem;
+}
+
+.search-buttons {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #686767;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+#button1, #button2 {
+  margin: 11px 4px;
+  padding: 0 16px;
+}
+
+
