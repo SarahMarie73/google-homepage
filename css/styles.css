@@ -27,3 +27,15 @@ body, html {
   margin: 0 auto;
   width: 482px;
 }
+
+#search {
+  color: gray;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#mic {
+  color: gray;
+  margin-top: 10px;
+  margin-left: 410px;
+}
