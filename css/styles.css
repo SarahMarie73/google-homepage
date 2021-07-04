@@ -58,3 +58,50 @@ body, html {
 }
 
 
+/**** NAVIGATION ****/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+header nav li a {
+  vertical-align: middle;
+}
+
+.right {
+  float: right;
+  vertical-align: middle;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+}
+
+li a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  padding: 10px 12px;
+  color: black;
+}
+
+#apps {
+  color: #686767;
+  padding-top: 0;
+}
+
+#sign-in {
+  color: #fff;
+  background-color: #4285F4;
+  font-weight: bold;
+  border-color: #4285F4;
+  border-style: none;
+  border-radius: 2px;
+  padding: 8px 12px;
+}
