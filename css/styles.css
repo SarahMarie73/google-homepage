@@ -105,3 +105,21 @@ li a {
   border-radius: 2px;
   padding: 8px 12px;
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid rgba(0, 0, 0, 0.082);
+  background-color: rgba(0, 0, 0, 0.021);
+  padding: 10px;
+}
+
+footer li a {
+  color: #686767;
+}
+
+.bottom-right {
+  float: right;
+  padding-right: 30px;
+}
